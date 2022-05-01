@@ -31,4 +31,6 @@
 <div align="center">
   <a href="https://stackoverflow.com/users/11952219/nilo-alan" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nilo-alan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/niloiturra/niloiturra/blob/output/github-contribution-grid-snake.svg)
 </div>
