@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/niloiturra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloiturra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloiturra&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloiturra&show_icons=true&title_color=38ab30&text_color=2fd42f&bg_color=000000&icon_color=2ab02a&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloiturra&layout=compact&langs_count=7&title_color=38ab30&text_color=2fd42f&bg_color=000000"/>
 </div>
   
   <div align="center"><br>
